@@ -1,14 +1,31 @@
 [
-  {
-    "employer": "Danilo Vesovic",
-    "location": "Online Education",
-    "position": "Coding Instructor Assistent",
-    "period": "September 2021- Present",
-    "about": "After completion of web dev course at danilovesovic.com school where I’ve gained knowledge and skills of HTML, CSS, JS,  I start working as the Instructor’s Assistant at the same online. Besides the technical knowledge required, I possess and successfully demonstrate skills of teaching and passing on the knowledge. Not less important skill to see through student and understand their struggles.",
-    "selected-contributions": {
-      "one": "Creator of non-curriculum activities – such as: learning about importance of web presents and web self-presentation such  are different professional social networks (LinkedIn, GitHub, etc.)",
-      "two": "Creator of non-curriculum activities – such as: fundamental understanding and learning about resume writing and job applications",
-      "three": "Creator of non-curriculum activities – such as: learning about job interview and professional presentation."
+    {
+      "employer": "Danilo Vesovic",
+      "location": "Online Education",
+      "position": "Coding Instructor Assistent",
+      "period": "September 2021- Present",
+      "about": "After completion of web dev course at danilovesovic.com school where I’ve gained knowledge and skills of HTML, CSS, JS,  I start working as the Instructor’s Assistant at the same online. Besides the technical knowledge required, I possess and successfully demonstrate skills of teaching and passing on the knowledge. Not less important skill to see through student and understand their struggles.",
+      "selected-contributions": {
+        "one": "Creator of non-curriculum activities – such as: learning about importance of web presents and web self-presentation such  are different professional social networks (LinkedIn, GitHub, etc.)",
+        "two": "Creator of non-curriculum activities – such as: fundamental understanding and learning about resume writing and job applications",
+        "three": "Creator of non-curriculum activities – such as: learning about job interview and professional presentation."
+      },
+      "duties":""
+    },
+    {
+      "employer": "Milan House, LLC. ",
+      "location": "Portland, OR",
+      "position": "Owner ",
+      "period": "May 2017 - Present",
+      "about": "Milan House is a short-term rental management company, operating with 96,3% of total rental capacity and 4.95 stars review. Man with many hats: established LLC, created relations with property owners, designed, equipped and staged properties, created web presentation.",
+      "selected-contributions": {
+        "one": "Creator of non-curriculum activities – such as: learning about importance of web presents and web self-presentation such  are different professional social networks (LinkedIn, GitHub, etc.)",
+        "two": "Creator of non-curriculum activities – such as: fundamental understanding and learning about resume writing and job applications",
+        "three": "Creator of non-curriculum activities – such as: learning about job interview and professional presentation."
+      },
+      "duties":{
+        "one":"Analyzing market demands and maximize high occupancy level.",
+        "two":"Providing and supervising those in charge of delivering outstanding customer service to all current and future guest."
+      }
     }
-  }
-]
+  ]
