@@ -15,6 +15,17 @@
       {
         "contribution": "Creator of non-curriculum activities – such as: learning about job interview and professional presentation."
       }
+    ],
+    "duties": [
+      {
+        "duty": "Students’ correspondence to assess their knowledge, progress, provide support and motivation"
+      },
+      {
+        "duty": "Create a positive, safe environment and engage students to join non-curriculum activities where they can say: 'I don’t know, and I need help!'."
+      },
+      {
+        "duty": "Communication with the students to gather their feedback, and use it to adapt future lectures."
+      }
     ]
   },
   {
@@ -23,7 +34,14 @@
     "position": "Owner ",
     "period": "May 2017 - Present",
     "about": "Milan House is a short-term rental management company, operating with 96,3% of total rental capacity and 4.95 stars review. Man with many hats: established LLC, created relations with property owners, designed, equipped and staged properties, created web presentation.",
-    "selectedContributions": [],
+    "selectedContributions": [
+      {
+        "contribution": "Establishing Milan House LLC, and obtaining all city and state license for the legal operation of short-term company."
+      },
+      {
+        "contribution": "Expending Milan House capacity from one to three rental properties"
+      }
+    ],
     "duties": [
       { "duty": "Analyzing market demands and maximize high occupancy level." },
       {
@@ -81,7 +99,17 @@
         "contribution": "Employed refined relationship-building skills and a collaborative mindset to help students acquire mathematical learning tactics to improve logical understanding."
       }
     ],
-    "duties": []
+    "duties": [
+      {
+        "duty": "Work 1-1 with students who have socially accepted behavior challenges"
+      },
+      {
+        "duty": "Analyzing same knowledge level students and creating working groups for math and English courses."
+      },
+      {
+        "duty": "Creating innovative approach in teaching math, the one that involves login and increase cognitive functions."
+      }
+    ]
   },
   {
     "employer": "Tawani Enterprises",
@@ -97,7 +125,15 @@
         "contribution": "Established operational sustainability through operational oversight of goods and services."
       }
     ],
-    "duties": []
+    "duties": [
+      {
+        "duty": "Staff members duties assigned, supervision and instructions."
+      },
+      { "duty": "Vendors correspondence." },
+      {
+        "duty": "Collaborating with guests, meeting their needs, and ensuring a quality customer service."
+      }
+    ]
   },
   {
     "employer": "National Library of Serbia ",
